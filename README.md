@@ -2,8 +2,9 @@
 
 ### Introduction
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/Screenshot%20from%202018-12-26%2014-32-04.png" align="left" width="500" ></a>
+&nbsp;
 
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/Screenshot%20from%202018-12-26%2014-32-04.png" align="left" width="500" ></a>
 
 &nbsp;
 
