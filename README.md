@@ -31,3 +31,11 @@ deemed suitable.
 
 Once we build a decent animatronic head we can start looking for programmers. You only really need to know Python and Arduino,
 and some C/C++ I guess.
+
+### Project status
+
+Currently working on a new 3d model for the head, one which already includes ears and a neck. I will use advanced methods such as photogrammetry and maybe even deepfakes in order to help achieve a more natural look. 
+
+I realized it was a bad idea to attach the ears separately as it just complicates the process and creates unsightly lines, especially when painting.
+
+The shore hardness of the first silicone head was also too hard for it to be usable for animatronics. It needs to be as soft as human skin in order for the servos to be able to stretch it. This can be accomplished by adding theatrical deadener.
