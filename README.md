@@ -29,7 +29,7 @@ You are welcome to submit your own 3d models and I will add them to my collectio
 deemed suitable.
 
 Once we build a decent animatronic head we can start looking for programmers. You only really need to know Python and Arduino,
-and some C/C++ I guess.
+and some C/C++ I guess. We want to keep the nature of the project as simple and beginner-friendly as possible.
 
 ### Project status
 
