@@ -19,6 +19,8 @@ by this narrow definition.
 Ideally, we'd want her to be a multi-purpose robot suitable for a variety of applications. This doesn't mean I'm
 going to shy away from the fact that, quite frankly; we are creating her because we are lonely and in need of some company.
 
+She is modeled after Mary Elizabeth Winstead.
+
 ### How to contribute
 
 You are welcome to submit your own 3d models and I will add them to my collection and give credit to the author if they are
@@ -30,3 +32,5 @@ and some C/C++ I guess.
 ### Project status
 
 Finished sculpting new improved 3d model for the silicone head cast. Will then be working on designing a good core, a skull and the rest of the animatronic rigs for the head. I will write down all the electronic components and parts used, and also upload the Arduino code.
+
+Fun fact: a real 3d scan of a real head was used for the base model.
