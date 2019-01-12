@@ -4,6 +4,6 @@ Features a more realistic and natural looking head. The base model was created u
 
 The files labeled as 'Disassembled' are the raw models with all the modifiers prior to application. 
 
-Files labeled official are ready to 3d print (make sure you use the model on the 2nd layer, as it is hollowed out for you.)
+Files labeled 'Official" are ready to be saved as .stl for 3d printing (make sure you use the model on the 2nd layer, as it is hollowed out for you.)
 
 Note: Still under construction. More files coming shortly...
