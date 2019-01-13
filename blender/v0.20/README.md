@@ -6,6 +6,6 @@ The files labeled as 'Disassembled' are the raw models with all the modifiers pr
 
 Files labeled 'Official" are ready to be saved as .stl for 3d printing (make sure you use the model on the 2nd layer, as it is hollowed out for you.)
 
-Your model should have a width of 170mm on X axis (corrected). 
+Your model should have a width of 170mm on X axis (corrected). Suitable for build plates of minimum 22cm square.
 
 Note: Still under construction. More files coming shortly...
