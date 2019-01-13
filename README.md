@@ -25,7 +25,7 @@ She is modeled after Mary Elizabeth Winstead.
 
 ### Wait, Silicone? Can you 3d print in silicone?
 
-Eh, no. You don't have to. Just 3d print your head model, sand it down, and then make a brush on mold on top of it. Then cast silicone into your silicone mold with a release agent. Simple!
+Eh, no. You don't have to. Just 3d print your head model, sand it down, and then make a brush on mold on top of it. Then cast silicone into your silicone mold with a release agent. Once you get the hang of it, it becomes fun, addicting.. and opens your mind and imagination to limitless possibilities!
 
 ### How to contribute
 
