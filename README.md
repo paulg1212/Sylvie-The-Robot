@@ -27,6 +27,16 @@ She is modeled after Mary Elizabeth Winstead.
 
 Eh, no. You don't have to. Just 3d print your head model, sand it down, and then make a brush on mold on top of it. Then cast silicone into your silicone mold with a release agent, insert your ABS core and you're done. Once you get the hang of it, it becomes fun, addicting.. and opens your mind and imagination to limitless possibilities!
 
+### Why is this free?
+
+It's free as in open source. You still have to buy the materials yourself.
+
+Why is it open source? Because I believe I have the moral duty to fight for a fairer, more egalitarian society. We absolutely do not want robotics to be a field that is dominated by powerful corporations, and governments, for the matter. 
+
+It should be the god-given right of every human being to have basic necessities. If there's anything we can learn from Amazon Alexa - it's the fact that she won't play Bob Seger's Ole Time Rock'n Roll unless you subscribe to Amazon Music. 
+
+Don't let your future companion robots be another means for corporations to leech off of working class people!
+
 ### How to contribute
 
 You are welcome to submit your own 3d models and I will add them to my collection and give credit to the author if they are
