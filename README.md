@@ -27,6 +27,8 @@ She is modeled after Mary Elizabeth Winstead.
 
 ### Wait, Silicone? Can you 3d print in silicone?
 
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/sylvie-demo-2.JPG" width="500" ></a>
+
 Eh, no. You don't have to. Just 3d print your head model, sand it down, and then make a brush on mold on top of it. Then cast silicone into your silicone mold with a release agent, insert your ABS core and you're done. Once you get the hang of it, it becomes fun, addicting.. and opens your mind and imagination to limitless possibilities!
 
 ### Why is this free?
