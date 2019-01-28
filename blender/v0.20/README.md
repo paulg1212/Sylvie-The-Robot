@@ -6,6 +6,8 @@ The files labeled as 'Disassembled' are the raw models with all the modifiers pr
 
 Files labeled 'Official" are ready to be saved as .stl for 3d printing (make sure you use the model on the 2nd layer, as it is hollowed out for you.)
 
-Your model should have a width of 170mm on X axis (corrected). Suitable for build plates of minimum 22cm square. If you only have a small build plate, you're gonna have to do some slicing, gluing, sanding, etc. But that's pretty much expected for most of the project anyway. Do NOT use epoxy as epoxy might cause cure inhibition with some platinum silicones. Only use ABS slurry for joining.
+Your model should have a width of 170mm (100.21%) on X axis (corrected). Suitable for build plates of minimum 22cm square. If you only have a small build plate, you're gonna have to do some slicing, gluing, sanding, etc. But that's pretty much expected for most of the project anyway. Do NOT use epoxy as epoxy might cause cure inhibition with some platinum silicones. Only use ABS slurry for joining.
+
+Your core should be around 167mm (100.21% as well) on X axis.
 
 Note: Still under construction. More files coming shortly...
