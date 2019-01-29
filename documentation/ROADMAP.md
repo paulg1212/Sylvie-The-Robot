@@ -16,4 +16,4 @@ before we even think about designing our animatronic rigs and setting up our har
 
 Once we've cast and painted our silicone face, and punched some eyebrows and eyelashes into it, we're ready to start designing, 3d printing, assembling, wiring and programming our animatronic skull.
 
-(Under construction...)
+*Under construction...*
