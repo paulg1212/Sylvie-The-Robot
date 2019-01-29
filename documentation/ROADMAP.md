@@ -1,8 +1,8 @@
 ## Roadmap for Project Sylvie
 
-### Mission statement: We will create a multipurpose 3d printable, female humanoid robot featuring animatronic silicone skin, 
-capable of emulating human behaviors such as communication, basic reasoning skills, displaying emotions, carrying objects, walking, playing video games, 
-playing board games, playing sports, intimacy and sexual intercourse.
+### Mission statement. 
+We will create a multipurpose 3d printable, female humanoid robot featuring animatronic silicone skin, 
+capable of emulating human behaviors such as communication, basic reasoning skills, displaying emotions, carrying objects, walking, playing video games, playing board games, playing sports, intimacy and sexual intercourse.
 
 ### Stage 1: Casing a silicone head.
 
