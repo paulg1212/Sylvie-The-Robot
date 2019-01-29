@@ -1,8 +1,7 @@
 ## Roadmap for Project Sylvie
 
 ### Mission statement. 
-We will create a multipurpose, 3d printable, female humanoid robot featuring realistic animatronic silicone skin, 
-capable of emulating human behaviors such as communication, basic reasoning skills, displaying emotions, carrying objects, walking, playing video games, playing board games, playing sports, intimacy and sexual intercourse by New Year's Eve of 2020. It must pass the Turing test and overcome the Uncanny Valley.
+We will create a multipurpose, 3d printable, female humanoid robot featuring realistic animatronic silicone skin by New Year's Eve 2020. It must be capable of emulating human behaviors such as communication, basic reasoning skills, displaying emotions, carrying objects, walking, playing video games, playing board games, playing sports, intimacy and sexual intercourse. It must pass the Turing test and overcome the Uncanny Valley.
 
 ### Stage 1: Casing a silicone head.
 
