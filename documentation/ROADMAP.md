@@ -27,6 +27,11 @@ will save us a ton of money on materials.
 
 ### Stage 6: Setting up the brains.
 
+We will be using an NVIDIA Jetson module, either Jetson Tx2 or Jetson Xavier, which will engage in serial communication with
+arduino components all over the body. Adding a Raspberry Pi for backup and storage also wouldn't hurt.
+
+(Until I'm able to afford this module, I will be using my GTX-1070 gaming rig as Sylvie's brain, with a remote control system.)
+
 ### Stage 7: Training our neural networks to speak.
 
 ### Stage 8: Training our neural networks to play games.
