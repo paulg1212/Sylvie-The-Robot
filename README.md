@@ -6,6 +6,8 @@
 
 [Get the latest blender files here!](https://github.com/misses-robot/Sylvie-The-Robot/tree/master/blender/v0.20)
 
+[View Roadmap](https://github.com/misses-robot/Sylvie-The-Robot/blob/master/documentation/ROADMAP.md)
+
 Sylvie the Robot is an open source, 3d printable robot featuring a silicone face molded from 3d printed models. 
 She is going to feature realistic animatronics capable of a wide range of expressions and emotions. 
 
