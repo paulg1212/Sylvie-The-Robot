@@ -16,4 +16,20 @@ before we even think about designing our animatronic rigs and setting up our har
 
 Once we've cast and painted our silicone face, and punched some eyebrows and eyelashes into it, we're ready to start designing, 3d printing, assembling, wiring and programming our animatronic skull.
 
+### Stage 3: Building our torso.
+
+### Stage 4: Building our arms.
+
+### Stage 5: Building our legs.
+
+### Stage 6: Setting up the brains.
+
+### Stage 7: Training our neural networks to speak.
+
+### Stage 8: Training our neural networks to play games.
+
+### Stage 9: Training our neural networks to walk.
+
+### Stage 10: Training our neural networks for intimacy.
+
 *Under construction...*
