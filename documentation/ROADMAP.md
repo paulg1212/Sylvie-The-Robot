@@ -5,7 +5,7 @@ We will create a multipurpose, 3d printable, female humanoid robot featuring rea
 
 ### Stage 1: Casing a silicone head.
 
-Sylvie the Robot is an android that features animatronic silicone skin. Since we're modelling her to look as 
+Sylvie the Robot is an android (technically, gynoid) that features animatronic silicone skin. Since we're modelling her to look as 
 human and aesthetically pleasing as possible, we're going to have to adapt the hardware to the chassis, rather than adapting
 the chassis to the hardware, as is usually done in the quirky, clunky world of robotics.
 
