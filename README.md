@@ -55,11 +55,13 @@ and some C/C++ I guess. We want to keep the nature of the project as simple and 
 
 ### Project status
 
-Status: Casting silicone head. 
-Progress: 5% Complete
-|_____-----------------------------------------------------------------------------------------------|
+Start date: 8th of October, 2018
 
-(Project started on 8th of October, 2018)
+Status: Casting silicone head. 
+
+Progress: 5% Complete
+
+|_____-----------------------------------------------------------------------------------------------|
 
 Finished sculpting new improved 3d model for the silicone head cast. Will then be working on designing a good core, a skull and the rest of the animatronic rigs for the head. I will write down all the electronic components and parts used, and also upload the Arduino code.
 
