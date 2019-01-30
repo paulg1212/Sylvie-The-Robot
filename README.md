@@ -58,3 +58,15 @@ and some C/C++ I guess. We want to keep the nature of the project as simple and 
 Finished sculpting new improved 3d model for the silicone head cast. Will then be working on designing a good core, a skull and the rest of the animatronic rigs for the head. I will write down all the electronic components and parts used, and also upload the Arduino code.
 
 Fun fact: a real 3d scan of a real head was used for the base model.
+
+### Current project expenditure (NZD)
+
+(As of Jan 30, 2019)
+(Includes the cost of material spent on older, failed prototypes.)
+
+- 3d printer: $400
+- 3d printing filament: $250
+- Silicone, scuplting and moulding supplies (including tools): $600
+- Servos, Arduino, Adapters, Hardware: $150
+
+Total spending: $1400 NZD
