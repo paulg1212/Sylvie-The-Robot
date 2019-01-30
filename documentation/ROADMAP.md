@@ -19,7 +19,7 @@ Once we've cast and painted our silicone face, and punched some eyebrows and eye
 ### Stage 3: Building our torso.
 
 We want our torso to be as modular as possible, as opposed to everything just being one piece. Every single cubic decimeter should be individually printable and modifiable/removable. This will make it a lot easier to correct mistakes along the way, and 
-will save us a ton of money on materials.
+will save us a ton of money on materials. Think human-size Bionicles.
 
 ### Stage 4: Building our arms.
 
