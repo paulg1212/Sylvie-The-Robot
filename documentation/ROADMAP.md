@@ -1,6 +1,6 @@
 ## Roadmap for Project Sylvie
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/documentation/quantum-cat-2.jpg" width="750" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/documentation/quantum-cat-2.jpg" width="500" ></a>
 
 ### Mission statement. 
 We will create a multipurpose, 3d printable, female humanoid robot featuring realistic animatronic silicone skin by New Year's Eve 2020. It must be capable of emulating human behaviors such as communication, basic reasoning skills, displaying emotions, carrying objects, walking, playing video games, playing board games, playing sports, intimacy and sexual intercourse. It must pass the Turing test and overcome the Uncanny Valley.
