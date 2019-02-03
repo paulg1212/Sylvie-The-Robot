@@ -24,6 +24,7 @@ getting the right algorithm and writing the right code, as opposed to building a
 3. Give your robot the capability to learn from real-life examples using motion capture.
 4. Implement a reward system so that your robot learns to avoid making uncanny gestures, through trial and error (reinforcement
 learning).
+5. Strive toward continuous improvement, but accept that some degree of imperfection is inevitable.
 
 ### 2. Artificial General Intelligence
 
