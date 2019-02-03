@@ -31,7 +31,7 @@ For what is worth, even experts cannot come to an agreement as to what actually 
 just as it is impossible to define what 'Common Sense' actually means.
 
 In my opinion, even humans do not exhibit 'General Intelligence'. Some people make better mathematicians, others make better
-musicians. Others make better plumbers.
+musicians. Others make better plumbers. This is why we have to specialize.
 
 The main problem we have with robots is that they're too predictable. That's because we need them to be predictable for most
 intents and purposes.
