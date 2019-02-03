@@ -48,7 +48,7 @@ Creativity is, for the most part, just randomness. One could even go as far as t
 as organisms do when subject to natural selection; bad ideas die out, and good ideas survive and reproduce, and then
 go on to mutate into new ideas. At the end of the day, all creative ideas originated by accident, and sheer randomness. We just tend to cherry-pick the good stuff.
 
-Many people seem to think that 'common sense' means 'universal sense'. There is no such thing as universal sense.
+Many people also seem to think that 'common sense' means 'universal sense'. There is no such thing as universal sense.
 
 Thus, the only way to achieve 'Artificial General Intelligence' is to carry on experimenting with deep learning, break up 
 bigger problems into smaller, more manageable tasks... until you end up with a 'Swiss Army Knife Intelligence', so to speak.
