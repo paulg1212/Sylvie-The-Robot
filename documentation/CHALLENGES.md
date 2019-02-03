@@ -19,7 +19,7 @@ grin that makes you uncomfortable, laughing in a strange manner, having a monoto
 How we can get around this problem:
 
 1. Make sure you are satisfied with how your animatronic head looks at resting/default position.
-2. Make your animatronic head as versatile and modifiable as possible, so that animating movements becomes a matter of 
+2. Make your animatronic head as versatile and modifiable as possible, so that animating realistic gestures becomes a matter of 
 getting the right algorithm and writing the right code, as opposed to building a new head from scratch (which wastes time and resources).
 3. Give your robot the capability to learn from real-life examples using motion capture.
 4. Implement a reward system so that your robot learns to avoid making uncanny gestures, through trial and error (reinforcement
