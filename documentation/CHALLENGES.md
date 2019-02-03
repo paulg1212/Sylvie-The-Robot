@@ -31,6 +31,10 @@ learning).
 For what is worth, even experts cannot come to an agreement as to what actually constitutes Artificial General Intelligence..
 just as it is impossible to define what 'Common Sense' actually means.
 
+You can't solve a problem programmatically when you can't even define what your problem actually is, and where there is no
+reliable way of quantifying progress. e.g. What makes one political system superior to another? Is it the overall happiness
+of your citizens, or the economic output?
+
 In my opinion, even humans do not exhibit 'General Intelligence'. Some people make better mathematicians, others make better
 musicians. Others make better plumbers. This is why we have to specialize.
 
