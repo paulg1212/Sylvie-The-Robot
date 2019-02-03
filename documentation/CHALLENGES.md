@@ -50,3 +50,5 @@ Building a human-level intelligence misses the point, and defeats the purpose.
 
 If you're going to spend time and resources building something that acts, thinks and behaves exactly like a human being..
 You may as well get a real human being to solve whatever problem it is you're trying to solve.
+
+..And if someone ever did build an AI that emulates the human brain neuron by neuron, then whoever switches it off is technically a murderer.
