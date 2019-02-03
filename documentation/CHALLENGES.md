@@ -39,6 +39,10 @@ intents and purposes.
 One way to get around this is to introduce a degree of randomness into every task, and allow reinforcement learning
 to do its magic.
 
+Creativity is, for the most part, just randomness. One could even go as far as to say that Ideas behave in the same way
+as organisms do when subject to natural selection; bad ideas die out, and good ideas propagate. At the end of the day, 
+all ideas originated by accident. 
+
 All in all, many people seem to think that 'common sense' means 'universal sense'. There is no such thing as universal sense.
 
 Thus, the only way to achieve 'Artificial General Intelligence' is to carry on experimenting with deep learning, break up 
