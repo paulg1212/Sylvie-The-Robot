@@ -45,8 +45,7 @@ Thus, the only way to achieve 'Artificial General Intelligence' is to carry on e
 bigger problems into smaller, more manageable tasks... until you end up with a 'Swiss Army Knife Intelligence', so to speak.
 
 Focus on the problems that actually need solving, not emulating human behavior. We don't want to emulate human behavior, as a 
-lot of what we do is stupid and pointless, anyway e.g. getting angry, getting jealous, being lazy, etc. none of which are traits
-that we even want in our robot.
+lot of what we do is stupid and pointless, anyway e.g. getting angry, getting jealous, being lazy, being greedy, being selfish, etc. none of which are traits that we even want in our robot.
 
 Building a human-level intelligence misses the point, and defeats the purpose. 
 
