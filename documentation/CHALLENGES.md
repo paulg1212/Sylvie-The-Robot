@@ -14,7 +14,7 @@ excessive amounts of plastic surgery, you'll notice that a lot of the times, the
 leave people feeling uneasy.
 
 Even normal, healthy people may exhibit quirks that give off this uncanny valley effect e.g. having an odd-looking
-grin that makes you uncomfortable.
+grin that makes you uncomfortable, laughing in a strange manner, having a monotonous voice, etc.
 
 How we can get around this problem:
 
