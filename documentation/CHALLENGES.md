@@ -39,7 +39,7 @@ intents and purposes.
 One way to get around this is to introduce a degree of randomness into every task, and allow reinforcement learning
 to do its magic.
 
-Creativity is, for the most part, just randomness. One could even go as far as to say that Ideas behave in the same way
+Creativity is, for the most part, just randomness. One could even go as far as to say that creative ideas behave in the same way
 as organisms do when subject to natural selection; bad ideas die out, and good ideas survive and reproduce, and then
 go on to mutate into new ideas. At the end of the day, all creative ideas originated by accident, and sheer randomness. We just tend to cherry-pick the good stuff.
 
