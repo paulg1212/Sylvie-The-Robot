@@ -57,7 +57,8 @@ You may as well get a real human being to solve whatever problem it is you're tr
 
 e.g. If you're lonely and you can't make meaningful connections with other humans, then clearly, 'human connection'
 is something you would want to avoid. Otherwise, you're just going to get rejected by your own robot, and the problem persists.
-You would thus need a more customized, specialized, altruistic type of mind that actually caters to your needs. 
+You would thus need a more customized, specialized, altruistic type of mind that actually caters to your needs.. which would
+be far too unnatural to exist in the 'flesh and blood' world.
 
 Maybe you're secretly craving a mother figure, or a father figure... and thus, your AI would have to be designed to behave more like a life-coach / therapist / sex worker.. something no human would ever be willing to provide free of charge.
 
