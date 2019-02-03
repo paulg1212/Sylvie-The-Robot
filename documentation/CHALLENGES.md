@@ -4,10 +4,10 @@
 
 In my opinion, the uncanney valley is solely caused by a miscommunication of body language.
 
-e.g. Irises that are too small may give the illusion of eyes being open wider than they really are.
-e.g. Incorrectly animated smiles may be misinterpreted as a menacing grin.
-e.g. Faces that are smiling when they shouldn't be, can leave an impression of lack of empathy or untrustworthiness.
-e.g. Movements that are jerky and do not ease-in / ease-out, may be interpreted as symptoms of disease.
+- e.g. Irises that are too small may give the illusion of eyes being open wider than they really are.
+- e.g. Incorrectly animated smiles may be misinterpreted as a menacing grin.
+- e.g. Faces that are smiling when they shouldn't be, can leave an impression of lack of empathy or untrustworthiness.
+- e.g. Movements that are jerky and do not ease-in / ease-out, may be interpreted as symptoms of disease.
 
 It should also be noted that this phenomenon isn't just exclusive to robots. If you've ever looked at, say, people who've had
 excessive amounts of plastic surgery, you'll notice that a lot of the times, their facial muscles are frozen up - which can
