@@ -35,7 +35,8 @@ You can't solve a problem programmatically when you can't even define what your 
 reliable way of quantifying progress. e.g. What makes one political system superior to another? Is it the overall happiness
 of your citizens, or the economic output?
 
-**There is no such thing as a problem an AI cannot solve - Only a problem that humans cannot accurately Define.**
+**There is no such thing as a problem an AI cannot solve - Only a problem that humans cannot accurately Define.** It's not the
+robot's fault your instructions suck!
 
 In my opinion, even humans do not exhibit 'General Intelligence'. Some people make better mathematicians, others make better
 musicians. Others make better plumbers. This is why we have to specialize.
