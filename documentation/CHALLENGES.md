@@ -58,7 +58,7 @@ bigger problems into smaller, more manageable tasks... until you end up with a '
 
 Focus on the problems that actually need solving, not emulating human behavior. We don't want to emulate ALL of human behavior, as a lot of what we do is stupid and pointless, anyway e.g. getting angry, getting jealous, being lazy, being greedy, being selfish, etc. none of which are traits that we even want in our robot.
 
-Building a human-level intelligence misses the point, and defeats the purpose. 
+Building a 'human-level intelligence' misses the point, and defeats the purpose. 
 
 If you're going to spend time and resources building something that acts, thinks and behaves exactly like a human being..
 You may as well get a real human being to solve whatever problem it is you're trying to solve. 
