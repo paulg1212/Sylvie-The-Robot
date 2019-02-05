@@ -45,7 +45,7 @@ It should be the god-given right of every human being to have basic necessities.
 
 Don't let your future companion robots be another means for corporations to leech off of working class people!
 
-### Aren't you just reinventing the wheel? Pretty sure China and Japan are already working on sex-bots.
+### Aren't you just reinventing the wheel? Pretty sure Japan are already working on sex-bots.
 
 While Sylvie the Robot will be capable of sexual intercourse, she isn't a sex-robot by definition.. any more than you and me are sex-humans.
 
@@ -54,6 +54,11 @@ What will set Sylvie apart from RealDolls and Harmonies, is the fact that she wi
 She will be something along the lines of a Therapist / Life Coach / Personal Trainer / Social Worker / Sexual Surrogate.
 
 In other words - she will be like a gamer's customized Linux gaming PC dream rig, in a world of overpriced MacBook Airs and Windows Tablets.
+
+Sex-bot companies will also set their own rules as to what they allow, and what they don't allow their clients to request 
+(e.g. A robot that looks like your ex, or a robot that looks like a celebrity). 
+
+With project Sylvie, anything goes, as long as you aren't actually hurting anybody.
 
 ### How to contribute
 
