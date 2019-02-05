@@ -53,7 +53,7 @@ What will set Sylvie apart from RealDolls and Harmonies, is the fact that she wi
 
 She will be something along the lines of a Therapist / Life Coach / Personal Trainer / Social Worker / Sexual Surrogate.
 
-In other words - she will be like a gamer's Linux Gaming PC Dream Rig, in a world of MacBook Airs and Windows Tablets.
+In other words - she will be like a gamer's customized Linux gaming PC dream rig, in a world of overpriced MacBook Airs and Windows Tablets.
 
 ### How to contribute
 
