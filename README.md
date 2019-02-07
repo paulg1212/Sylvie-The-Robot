@@ -45,7 +45,7 @@ It should be the god-given right of every human being to have basic necessities.
 
 Let's just say this is my way of giving back to the community, having lived on welfare and disability for nearly 5 years.
 
-Don't let your future companion robots be a way for corporations to exploit lonely virgins!
+If you thought Twitch streamers were bad, wait till you see greedy corporations going out of their way to exploit lonely virgins with overpriced sex-robots. Don't let your virginity pay for the cocaine-fueled orgies and private jet collections of wealthy CEOs!  
 
 ### Aren't you just reinventing the wheel? Pretty sure Japan are already working on sex-bots.
 
