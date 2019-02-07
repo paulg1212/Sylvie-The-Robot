@@ -1,5 +1,8 @@
 ## Blender files v0.20.1
 
+- **Head Model (we are here!)**
+- [Animatronic Eye Mechanism](https://github.com/misses-robot/Sylvie-The-Robot/tree/master/blender/v0.20/ANIMATRONIC-EYES)
+
 Features a more realistic and natural looking head. The base model was created using a photogrammetric 3d scan of a human head with Meshroom and a DSLR camera. The rest of the details were sculpted by hand in Blender.
 
 The core of the model is the 3d printed part that is inserted into the mold after silicone is poured into it.
