@@ -45,11 +45,13 @@ It should be the god-given right of every human being to have basic necessities.
 
 Let's just say this is my way of giving back to the community, having lived on welfare and disability for nearly 5 years, at the expense of the taxpayer.
 
-If you thought Twitch streamers were bad, wait till you see greedy corporations going out of their way to exploit lonely virgins with overpriced sex-robots. Don't let your virginity pay for the cocaine-fueled orgies and private jet collections of wealthy CEOs!  
+### I'm still not convinced! Pretty sure Japan, China, etc. are already doing this. 
 
-### Aren't you just reinventing the wheel? Pretty sure Japan are already working on sex-bots.
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/meme-dr-evil-1.jpg" width="500" ></a>
 
-While Sylvie the Robot will be capable of sexual intercourse, she isn't a sex-robot by definition.. any more than you and me are sex-humans.
+If you thought Twitch streamers were bad, wait till you see greedy corporations going out of their way to make a cash cow out of lonely virgins with patented, overpriced sex robots (and upgrades, spare parts, etc.). Don't let your virginity pay for the cocaine-fueled orgies and private jet collections of wealthy CEOs!  
+
+All that said - while Sylvie the Robot will be capable of sexual intercourse - she isn't a sex-robot by definition.. any more than you and me are sex-humans.
 
 What will set Sylvie apart from RealDolls and Harmonies, is the fact that she will cater to those who are genuinely lonely, not people with overactive sex drives.
 
