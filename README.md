@@ -45,7 +45,7 @@ It should be the god-given right of every human being to have basic necessities.
 
 Let's just say this is my way of giving back to the community, having lived on welfare and disability for nearly 5 years, at the expense of the taxpayer.
 
-### I'm still not convinced! Pretty sure Japan, China, etc. are already doing this. 
+### I'm still not convinced! Pretty sure someone else is already working on your idea.. 
 
 <a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/meme-dr-evil-1.jpg" width="500" ></a>
 
