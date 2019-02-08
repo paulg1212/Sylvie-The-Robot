@@ -53,7 +53,7 @@ All that said - while Sylvie the Robot will be capable of sexual intercourse - s
 
 What will set Sylvie apart from RealDolls and Harmonies, is the fact that she will cater to those who are genuinely lonely, not people with overactive sex drives.
 
-She will be something along the lines of a Therapist / Life Coach / Personal Trainer / Social Worker / Sexual Surrogate.. though you could train her for all kinds of applications, really.
+She will be something along the lines of a Therapist / Life Coach / Personal Trainer / Social Worker / Sexual Surrogate.. though you could train her for all kinds of applications, really. She will obviously also cater to those who are relatively tech-savvy and willing to tinker and customize things a little.
 
 In other words - she will be like a gamer's customized Linux gaming PC dream rig, in a world of overpriced MacBook Airs and Windows Tablets.
 
