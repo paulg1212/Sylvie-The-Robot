@@ -45,9 +45,9 @@ Let's just say this is my way of giving back to the community, having lived on w
 
 ### Corporations have more power and resources than you, and are already working on this!
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/meme-dr-evil-1.jpg" width="500" ></a>
-
 If you thought Twitch streamers were bad, wait till you see greedy corporations going out of their way to make a cashcow out of lonely virgins with patented, overpriced sex robots (and upgrades, spare parts, etc.). Don't let your virginity pay for the cocaine-fueled orgies and private jet collections of wealthy CEOs!  
+
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/meme-dr-evil-1.jpg" width="500" ></a>
 
 All that said - while Sylvie the Robot will be capable of sexual intercourse - she isn't a sex-robot by definition.. any more than you and me are sex-humans.
 
