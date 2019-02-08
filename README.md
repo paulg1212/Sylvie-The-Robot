@@ -39,9 +39,7 @@ Eh, no. You don't have to. Just 3d print your head model, sand it down, and then
 
 It's free as in open source. You still have to buy the materials yourself.
 
-Why is it open source? Because I believe I have the moral duty to fight for a fairer, more egalitarian society. We absolutely do not want robotics to be a field that is dominated by powerful corporations, and governments, for the matter. 
-
-It should be the god-given right of every human being to have basic necessities. If there's anything we can learn from Amazon Alexa - it's the fact that she won't play Bob Seger's Ole Time Rock'n Roll unless you subscribe to Amazon Music. 
+Why is it open source? Because I believe I have the moral duty to fight for a fairer, more egalitarian society. We absolutely do not want robotics to be a field that is dominated by powerful corporations, and governments, for the matter.  
 
 Let's just say this is my way of giving back to the community, having lived on welfare and disability for nearly 5 years, at the expense of the taxpayer.
 
