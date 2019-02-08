@@ -43,7 +43,7 @@ Why is it open source? Because I believe I have the moral duty to fight for a fa
 
 Let's just say this is my way of giving back to the community, having lived on welfare and disability for nearly 5 years, at the expense of the taxpayer.
 
-### I'm still not convinced! Pretty sure someone else is already working on your idea.. 
+### Corporations have more power and resources than you, and are already working on this!
 
 <a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/meme-dr-evil-1.jpg" width="500" ></a>
 
