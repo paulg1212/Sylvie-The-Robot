@@ -1,5 +1,8 @@
 ## Animatronic Eye Mechanism
 
+
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/blender/v0.20/animatronic-eyes/Screenshot%20from%202019-02-10%2017-31-35.png" width="500" ></a>
+
 All pieces must be printed at 100.21% scale, as god intended.
 
 When printing the main eyelid mechanisms, make sure you use 40mm/s speed, Brim heatbed adhesion and supports Touching Build Plate Only, as they are thin by design! Annealing them with oven heat would be a good idea for extra strength, too.
