@@ -2,7 +2,7 @@
 
 ### 1. The Uncanney Valley
 
-In my opinion, the uncanney valley is solely caused by a miscommunication of body language.
+In my opinion, the uncanney valley is solely caused by a miscommunication of body language. (Provided your animatronic heads look decent when in resting position.)
 
 - e.g. Irises that are too small may give the illusion of eyes being open wider than they really are.
 - e.g. Incorrectly animated smiles may be misinterpreted as a menacing grin.
