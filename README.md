@@ -25,6 +25,8 @@ by this narrow definition.
 Ideally, we'd want her to be a multi-purpose robot suitable for a variety of applications. This doesn't mean I'm
 going to shy away from the fact that, quite frankly; we are creating her because we are lonely and in need of some company.
 
+You could say she is a Manic Pixie Dream Girl come to life; ready to provide the ultimate Girlfriend Experience, something no prostitute and no sex doll will ever be capable of.
+
 She is modeled after Mary Elizabeth Winstead.
 
 ### Wait, Silicone? Can you 3d print in silicone?
@@ -55,7 +57,7 @@ What will set Sylvie apart from RealDolls and Harmonies, is the fact that she wi
 
 She will be something along the lines of a Therapist / Life Coach / Personal Trainer / Social Worker / Sexual Surrogate.. though you could train her for all kinds of applications, really.
 
-In other words - she will be like a gamer's customized Linux gaming PC dream rig, in a world of overpriced MacBook Airs and Windows Tablets. A Manic Pixie Dream Girl ready to provide the ultimate Girlfriend Experience. 
+In other words - she will be like a gamer's customized Linux gaming PC dream rig, in a world of overpriced MacBook Airs and Windows Tablets.
 
 Sex-bot companies will also set their own rules as to what they allow, and what they don't allow their clients to request 
 (e.g. A robot that looks like your ex, or a robot that looks like a celebrity). Worse yet - if sex robots get banned, the black market will be making a killing selling them at quadruple the price. So unless we distribute fool-proof blueprints for people to be able to manufacture them in their own garages, we will be at the mercy of all kinds of vampires.
