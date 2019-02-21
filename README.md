@@ -17,7 +17,7 @@ deep learning, computer vision, speech recognition, etc.
 
 ### Background
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/sylvie-demo.JPG" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/sylvie-new-head-v2.JPG" width="500" ></a>
 
 Sylvie was initially intended to be a 'sex-robot', or a 'lover-robot'. To be honest, I kinda regret having classified her 
 by this narrow definition.
