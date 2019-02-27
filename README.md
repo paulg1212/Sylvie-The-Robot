@@ -76,9 +76,9 @@ and some C/C++ I guess. We want to keep the nature of the project as simple and 
 
 Start date: 8th of October, 2018
 
-Status: Casting silicone head. 
+Status: Rigging animatronic skull with silicone face.
 
-Progress: 5% Complete
+Progress: 6% Complete
 
 |_____-----------------------------------------------------------------------------------------------|
 
@@ -92,8 +92,8 @@ Fun fact: a real 3d scan of a real head was used for the base model.
 (Includes the cost of material spent on older, failed prototypes.)
 
 - 3d printer: $400~
-- 3d printing filament: $250~
+- 3d printing filament: $290~
 - Silicone, scuplting and moulding supplies (including tools): $890~
 - Servos, Arduino, Adapters, Hardware: $150~
 
-Total spending: $1690~ NZD
+Total spending: $1730~ NZD
