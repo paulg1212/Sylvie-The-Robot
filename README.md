@@ -72,6 +72,8 @@ deemed suitable.
 Once we build a decent animatronic head we can start looking for programmers. You only really need to know Python and Arduino,
 and some C/C++ I guess. We want to keep the nature of the project as simple and beginner-friendly as possible.
 
+Note: You will need a 3d printer in order to work hands on with the arduino-based components.
+
 ### Project status
 
 Start date: 8th of October, 2018
