@@ -7,7 +7,8 @@ import os
 ser = serial.Serial('/dev/ttyACM0', 9600) # Establish the connection on a specific port
 os.system("stty -echo")
 
-previous_status = 0
+previous_status = "0"
+previous_message = ""
 
 def write_serial(status, printed):
     global previous_status
@@ -15,7 +16,14 @@ def write_serial(status, printed):
         os.system('clear')	
         print(printed)
         ser.write(str(status))
-        previous_status = status    
+        previous_status = status
+        
+def sys_message(message):
+    global previous_message
+    if message != previous_message:
+        os.system('clear')
+        print(message)
+        previous_message = message        
 
 while True:
     if keyboard.is_pressed('q'): 	
@@ -25,11 +33,22 @@ while True:
     elif keyboard.is_pressed('e'): 	
         write_serial(4, "KEYBOARD KEY [E] PRESSED!")   
     elif keyboard.is_pressed('r'): 	
-        write_serial(5, "KEYBOARD KEY [R] PRESSED!")                       
+        write_serial(5, "KEYBOARD KEY [R] PRESSED!") 
+    elif keyboard.is_pressed('a'): 	
+        write_serial(6, "KEYBOARD KEY [A] PRESSED!") 
+    elif keyboard.is_pressed('s'): 	
+        write_serial(7, "KEYBOARD KEY [S] PRESSED!")
+    elif keyboard.is_pressed('d'): 	
+        write_serial(8, "KEYBOARD KEY [D] PRESSED!")
+    elif keyboard.is_pressed('f'): 	
+        write_serial(9, "KEYBOARD KEY [F] PRESSED!")        
+    elif keyboard.is_pressed('o'): 	
+        write_serial(10, "POSITIONS RESET!")                                               
     elif keyboard.is_pressed('p'):
         write_serial(1, "DONE.")	
+        sleep(1)
         os.system('stty echo')                
         os.system('clear')
         exit()
     else:		
-        write_serial(0, "WAITING FOR USER INPUT (PRESS Q, W, E or R)!")
+        sys_message("WAITING FOR USER INPUT! (TRY Q,W,E,R,T,A,S,D,F)")   
