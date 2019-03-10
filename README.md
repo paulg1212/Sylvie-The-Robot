@@ -97,8 +97,8 @@ Fun fact: a real 3d scan of a real head was used for the base model.
 (Includes the cost of material spent on older, failed prototypes.)
 
 - 3d printer: $400~
-- 3d printing filament: $290~
+- 3d printing filament: $330~
 - Silicone, scuplting and moulding supplies (including tools): $890~
-- Servos, Arduino, Adapters, Hardware: $150~
+- Servos, Arduino, Adapters, Hardware: $180~
 
-Total spending: $1730~ NZD
+Total spending: $1800~ NZD
