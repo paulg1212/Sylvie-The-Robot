@@ -1,4 +1,4 @@
-## Sylvie-The-Robot v0.20.1
+## Sylvie-The-Robot v0.21.0
 
 ### Introduction
 
