@@ -4,7 +4,7 @@
 - [Animatronic Skull](https://github.com/misses-robot/Sylvie-The-Robot/tree/master/blender/stable/animatronic-skull)
 - [Animatronic Eye Mechanism](https://github.com/misses-robot/Sylvie-The-Robot/tree/master/blender/stable/animatronic-eyes)
 
-Note on versioning: Version number represents changes in individual models or a couple of models. A revision represents changes in across most models.
+Note on versioning: Version number represents changes in individual models or a couple of models. A revision represents changes across most models.
 
 Features a more realistic and natural looking head. The base model was created using a photogrammetric 3d scan of a human head with Meshroom and a DSLR camera. The rest of the details were sculpted by hand in Blender.
 
