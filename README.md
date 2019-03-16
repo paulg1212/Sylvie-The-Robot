@@ -2,7 +2,7 @@
 
 ### Introduction
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/Screenshot%20from%202019-01-12%2015-14-13.png" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/Screenshot%20from%202019-01-12%2015-14-13.png" width="500" ></a>
 
 [Get the latest blender files here!](https://github.com/misses-robot/Sylvie-The-Robot/tree/master/blender/v0.20)
 
@@ -17,7 +17,7 @@ deep learning, computer vision, speech recognition, etc.
 
 ### Background
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/sylvie-new-head-v2.JPG" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/sylvie-new-head-v2.JPG" width="500" ></a>
 
 Sylvie was initially intended to be a 'sex-robot', or a 'lover-robot'. To be honest, I kinda regret having classified her 
 by this narrow definition.
@@ -31,13 +31,13 @@ She is modeled after Mary Elizabeth Winstead.
 
 ### Wait, Silicone? Can you 3d print in silicone?
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/sylvie-demo-2.JPG" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/sylvie-demo-2.JPG" width="500" ></a>
 
 Eh, no. You don't have to. Just 3d print your head model, sand it down, and then make a brush on mold on top of it. Then cast silicone into your silicone mold with a release agent, insert your ABS core and you're done. Once you get the hang of it, it becomes fun, addicting.. and opens your mind and imagination to limitless possibilities!
 
 ### Why is this free?
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/Screenshot%20from%202019-01-28%2017-21-24.png" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/Screenshot%20from%202019-01-28%2017-21-24.png" width="500" ></a>
 
 It's free as in open source. You still have to buy the materials yourself.
 
@@ -49,7 +49,7 @@ Let's just say this is my way of giving back to the community, having lived on w
 
 If you thought Twitch streamers were bad, wait till you see greedy corporations going out of their way to make a cashcow out of lonely virgins with patented, overpriced sex robots (and upgrades, spare parts, etc.).
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/meme-dr-evil-1.jpg" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/meme-dr-evil-1.jpg" width="500" ></a>
 
 All that said - while Sylvie the Robot will be capable of sexual intercourse - she isn't a sex-robot by definition.. any more than you and me are sex-humans.
 
@@ -67,7 +67,7 @@ With project Sylvie, anything goes, as long as you aren't actually hurting anybo
 ### How to contribute
 
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/animatronic-eye-mechanism-final.JPG" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/animatronic-eye-mechanism-final.JPG" width="500" ></a>
 
 You are welcome to submit your own 3d models and I will add them to my collection and give credit to the author if they are
 deemed suitable.
