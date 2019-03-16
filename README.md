@@ -83,9 +83,9 @@ Start date: 8th of October, 2018
 
 Status: Rigging animatronic skull with silicone face.
 
-Progress: 6% Complete
+Progress: 7% Complete
 
-|_____-----------------------------------------------------------------------------------------------|
+|______----------------------------------------------------------------------------------------------|
 
 Finished sculpting new improved 3d model for the silicone head cast. Will then be working on designing a good core, a skull and the rest of the animatronic rigs for the head. I will write down all the electronic components and parts used, and also upload the Arduino code.
 
