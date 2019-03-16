@@ -1,7 +1,7 @@
 ## Animatronic Eye Mechanism
 
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/blender/v0.20/animatronic-eyes/Screenshot%20from%202019-02-10%2017-31-35.png" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/blender/stable/animatronic-eyes/Screenshot%20from%202019-02-10%2017-31-35.png" width="500" ></a>
 
 All pieces must be printed at 100.21% scale, as god intended.
 
