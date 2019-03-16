@@ -1,3 +1,0 @@
-## Version 0.10 (OBSOLETE)
-
-Old version, do not use. Was originally used to create a test head and for proof of concept. Still good to have a look at if you want to have an idea of how projects evolve over time...
