@@ -30,7 +30,7 @@ Check out Brick in the Yard Mold Supply on YouTube for great silicone casting/mo
 
 Unfortunately, in order to make more detailed video tutorials, I would have to create another copy of Sylvie's head... which will simply not be practical unless I somehow get appropriate funding for it.
 
-That said, I will try to leave as much written information on here as possible. But just be aware that you are taking a risk and be ready to make mistakes along the way.
+That said, I will try to leave as much written information on here as possible. But just be aware that you are a pioneer and be ready to make mistakes along the way.
 
 When you finish casting your silicone head, you will have to slice the eyes open and perform delicate 'mouth surgery' on the lips. Try to incorporate a delicate 'M' shape to the lip, as no human lip is perfectly straight. Use a reference image for assistance. Then paint over it with a thick layer of EcoFlex 00-10. Do this after you've finished your full-face paint job.
 
