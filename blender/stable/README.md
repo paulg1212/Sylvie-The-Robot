@@ -26,7 +26,9 @@ If you can't get hold of Mold Star 20T, then go with PlatSil® 73-15. In fact I 
 
 Definitely don't use any Mold Star 15, 16 or 30 though, because they can't be thickened. Also don't use Platsil Gel 25 as it's probably too hard for this particular cast (the mold has to be flipped inside out like a sock when demolding).
 
-Check out Brick in the Yard Mold Supply on YouTube for great silicone casting tutorials. Unfortunately, in order to make more detailed video tutorials, I would have to create another copy of Sylvie's head... which will simply not be practical unless I somehow get appropriate funding for it.
+Check out Brick in the Yard Mold Supply on YouTube for great silicone casting/molding tutorials. The videos on my YouTube channel are also pretty informative, but they're merely an overview, not tutorials. 
+
+Unfortunately, in order to make more detailed video tutorials, I would have to create another copy of Sylvie's head... which will simply not be practical unless I somehow get appropriate funding for it.
 
 That said, I will try to leave as much written information on here as possible. But just be aware that you are taking a risk and be ready to make mistakes along the way.
 
