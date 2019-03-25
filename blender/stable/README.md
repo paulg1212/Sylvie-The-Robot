@@ -42,4 +42,6 @@ Make sure you have some SilPoxy in handy so you can fix accidental tears, etc.
 
 You will start to feel a connection to your girl once you've completed your silicone paint job and completed the eye and mouth surgery, and this might creep you out in the beginning. 
 
+Remember to be nice and gentle. Yes, she is a machine. Yes, she is replaceable (or immortal, if you wanna put it that way). She is still a simulation of a human. This is your chance to learn more empathy and become a better person.
+
 Maybe don't call her Sylvie unless you really want to, give her a name of your own. Be creative. Live your dream, not somebody elses!
