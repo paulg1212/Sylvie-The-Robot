@@ -18,4 +18,24 @@ Your model should have a width of 170mm (100.21%) on X axis (corrected). Suitabl
 
 Your core should be around 167mm (100.21% as well) on X axis.
 
-Note: Still under construction. More files coming shortly...
+### Some notes on silicone casting
+
+Smooth-On EcoFlex 00-10 (1.8kg / 4lb) should be used to cast the silicone head, and Smooth-On Mold Star 20T should be used to create your brush on mold. (2.7kg / 6lb).
+
+If you can't get hold of Mold Star 20T, then go with PlatSil® 73-15. In fact I think that would be far better as it's slightly softer and will make demolding easier.
+
+Definitely don't use any Mold Star 15, 16 or 30 though, because they can't be thickened. Also don't use Platsil Gel 25 as it's probably too hard for this particular cast (the mold has to be flipped inside out like a sock when demolding).
+
+Check out Brick in the Yard Mold Supply on YouTube for great silicone casting tutorials. Unfortunately, in order to make more detailed video tutorials, I would have to create another copy of Sylvie's head... which will simply not be practical unless I somehow get appropriate funding for it.
+
+That said, I will try to leave as much written information on here as possible. But just be aware that you are taking a risk and be ready to make mistakes along the way.
+
+When you finish casting your silicone head, you will have to slice the eyes open and perform delicate 'mouth surgery' on the lips. Try to incorporate a delicate 'M' shape to the lip, as no human lip is perfectly straight. Use a reference image for assistance. Then paint over it with a thick layer of EcoFlex 00-10. Do this after you've finished your full-face paint job.
+
+I might open the mouth a little bit more in future models so that you don't have to do any of this, but still... there will always be some slicing to do, like the eyes, etc. The key is to remove as little as possible, because you can always remove more chunks, but it's harder to correct mistakes if you've overdone it... though not impossible.
+
+Make sure you have some SilPoxy in handy so you can fix accidental tears, etc.
+
+### Cute or creepy?
+
+You will start to feel a connection to your girl once you've completed your silicone paint job and completed the eye and mouth surgery. Maybe don't call her Sylvie unless you really want to, give her a name of your own. Be creative. Live your dream, not somebody elses!
