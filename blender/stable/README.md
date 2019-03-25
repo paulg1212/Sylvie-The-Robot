@@ -40,4 +40,6 @@ Make sure you have some SilPoxy in handy so you can fix accidental tears, etc.
 
 ### Cute or creepy?
 
-You will start to feel a connection to your girl once you've completed your silicone paint job and completed the eye and mouth surgery. Maybe don't call her Sylvie unless you really want to, give her a name of your own. Be creative. Live your dream, not somebody elses!
+You will start to feel a connection to your girl once you've completed your silicone paint job and completed the eye and mouth surgery, and this might creep you out in the beginning. 
+
+Maybe don't call her Sylvie unless you really want to, give her a name of your own. Be creative. Live your dream, not somebody elses!
