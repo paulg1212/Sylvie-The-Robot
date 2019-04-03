@@ -22,11 +22,11 @@ void setup() {
   hx5010_3.attach(4);
   hx5010_4.attach(5);
 
-  sg90_1.write(45);
-  sg90_2.write(45); 
+  sg90_1.write(90);
+  sg90_2.write(90); 
   
-  sg90_3.write(45);
-  sg90_4.write(45);
+  sg90_3.write(90);
+  sg90_4.write(90);
   
   hx5010_1.write(0);
   hx5010_2.write(0);
@@ -64,20 +64,20 @@ void loop() {
     hx5010_4.write(0);
   }
   else if (servoState == 6){
-    sg90_1.write(0);
-    sg90_3.write(0); 
+    sg90_1.write(45);
+    sg90_3.write(45); 
   }
   else if (servoState == 7){
-    sg90_1.write(90);
-    sg90_3.write(90);  
+    sg90_1.write(135);
+    sg90_3.write(135);  
   }
   else if (servoState == 8){
-    sg90_2.write(0);
-    sg90_4.write(0);  
+    sg90_2.write(45);
+    sg90_4.write(45);  
   }
   else if (servoState == 9){
-    sg90_2.write(90);
-    sg90_4.write(90);  
+    sg90_2.write(135);
+    sg90_4.write(135);  
   }
   else if (servoState == 10){
     hx5010_1.write(0);
@@ -86,10 +86,10 @@ void loop() {
     hx5010_3.write(90);
     hx5010_4.write(90);
     
-    sg90_1.write(45);
-    sg90_2.write(45);
+    sg90_1.write(90);
+    sg90_2.write(90);
     
-    sg90_3.write(45);
-    sg90_4.write(45); 
+    sg90_3.write(90);
+    sg90_4.write(90); 
   }  
 }
