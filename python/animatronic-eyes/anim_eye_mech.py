@@ -41,7 +41,11 @@ while True:
     elif keyboard.is_pressed('d'): 	
         write_serial(8, "KEYBOARD KEY [D] PRESSED!")
     elif keyboard.is_pressed('f'): 	
-        write_serial(9, "KEYBOARD KEY [F] PRESSED!")        
+        write_serial(9, "KEYBOARD KEY [F] PRESSED!")
+    elif keyboard.is_pressed('z'): 	
+        write_serial(11, "KEYBOARD KEY [Z] PRESSED!")
+    elif keyboard.is_pressed('x'): 	
+        write_serial(12, "KEYBOARD KEY [X] PRESSED!")         
     elif keyboard.is_pressed('o'): 	
         write_serial(10, "POSITIONS RESET!")                                               
     elif keyboard.is_pressed('p'):

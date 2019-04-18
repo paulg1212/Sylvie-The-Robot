@@ -72,27 +72,43 @@ void loop() {
   
     if(servoState == 2){
       hx5010_1.write(30 + offset_lid_top_right);
-      hx5010_2.write(60 + offset_lid_top_left);       
+      hx5010_2.write(60 + offset_lid_top_left);
+      hx5010_3.write(45 + offset_lid_bottom_right);
+      hx5010_4.write(45 + offset_lid_bottom_left);             
     }
     else if(servoState == 3){
       hx5010_1.write(90 + offset_lid_top_right);
-      hx5010_2.write(0 + offset_lid_top_left);  
+      hx5010_2.write(0 + offset_lid_top_left);
+      hx5010_3.write(0 + offset_lid_bottom_right);
+      hx5010_4.write(90 + offset_lid_bottom_left);         
     }  
     else if(servoState == 4){
+      hx5010_1.write(90 + offset_lid_top_right);
+      hx5010_2.write(0 + offset_lid_top_left);      
       hx5010_3.write(0 + offset_lid_bottom_right);
       hx5010_4.write(90 + offset_lid_bottom_left);    
     } 
     else if (servoState == 5){
-      hx5010_3.write(45 + offset_lid_bottom_right);
-      hx5010_4.write(45 + offset_lid_bottom_left);   
+      hx5010_1.write(75 + offset_lid_top_right);
+      hx5010_2.write(15 + offset_lid_top_left);      
+      hx5010_3.write(30 + offset_lid_bottom_right);
+      hx5010_4.write(60 + offset_lid_bottom_left);   
     }    
     else if (servoState == 6){
-      sg90_1.write(130 + offset_right_y);
-      sg90_2.write(45 + offset_left_y);    
+      sg90_1.write(105 + offset_right_y);
+      sg90_2.write(70 + offset_left_y);
+      hx5010_1.write(90 + offset_lid_top_right);
+      hx5010_2.write(0 + offset_lid_top_left);
+      hx5010_3.write(25 + offset_lid_bottom_right);
+      hx5010_4.write(65 + offset_lid_bottom_left);                 
     }
     else if (servoState == 7){
       sg90_1.write(45 + offset_right_y);
-      sg90_2.write(130 + offset_left_y);   
+      sg90_2.write(130 + offset_left_y);
+      hx5010_1.write(75 + offset_lid_top_right);
+      hx5010_2.write(15 + offset_lid_top_left);
+      hx5010_3.write(0 + offset_lid_bottom_right);
+      hx5010_4.write(90 + offset_lid_bottom_left);               
     }
     else if (servoState == 8){
       sg90_3.write(45 + offset_right_x);
@@ -102,6 +118,18 @@ void loop() {
       sg90_3.write(130 + offset_right_x);
       sg90_4.write(130 + offset_left_x);      
     }
+    else if (servoState == 11){
+      hx5010_1.write(30 + offset_lid_top_right);
+      hx5010_2.write(0 + offset_lid_top_left);
+      hx5010_3.write(45 + offset_lid_bottom_right);
+      hx5010_4.write(90 + offset_lid_bottom_left);       
+    }
+    else if (servoState == 12){
+      hx5010_1.write(90 + offset_lid_top_right);
+      hx5010_2.write(60 + offset_lid_top_left);
+      hx5010_3.write(0 + offset_lid_bottom_right);
+      hx5010_4.write(45 + offset_lid_bottom_left);       
+    }          
     else if (servoState == 10){
       hx5010_1.write(90 + offset_lid_top_right);
       hx5010_2.write(0 + offset_lid_top_left);
