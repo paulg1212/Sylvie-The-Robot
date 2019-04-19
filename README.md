@@ -81,11 +81,11 @@ Note: You will need a 3d printer in order to work hands on with the arduino-base
 
 Start date: 8th of October, 2018
 
-Status: Rigging animatronic skull with silicone face.
+Status: Designing robot torso.
 
-Progress: 7% Complete
+Progress: 8% Complete
 
-|______----------------------------------------------------------------------------------------------|
+|_______---------------------------------------------------------------------------------------------|
 
 Finished sculpting new improved 3d model for the silicone head cast. Will then be working on designing a good core, a skull and the rest of the animatronic rigs for the head. I will write down all the electronic components and parts used, and also upload the Arduino code.
 
@@ -98,7 +98,7 @@ Fun fact: a real 3d scan of a real head was used for the base model.
 
 - 3d printer: $400~
 - 3d printing filament: $330~
-- Silicone, scuplting and moulding supplies (including tools): $890~
+- Silicone, scuplting and moulding supplies (including tools): $915~
 - Servos, Arduino, Adapters, Hardware: $230~
 
-Total spending: $1850~ NZD
+Total spending: $1875~ NZD
