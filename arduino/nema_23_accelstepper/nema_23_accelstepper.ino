@@ -6,11 +6,15 @@
 #include <AccelStepper.h> // This can be installed by going to 
 // Sketch > Include Library > Manage Libraries > Search for "AccelStepper" 
 
-int motorSpeed = 1200; //maximum steps per second
-int motorAccel = 1000; //steps/second/second to accelerate
+int motorSpeed = 1400; //maximum steps per second
+int motorAccel = 2500; //steps/second/second to accelerate
 
 int motorDirPin = 8; //digital pin 8
 int motorStepPin = 9; //digital pin 9
+
+int gearReduction = 38.4;
+
+int stepsPerRev = 50;
 
 int enablePin = 10; // Turn motor driver on/off (can save power when motor is idle)
 
@@ -23,7 +27,7 @@ void setup(){
  stepper.setSpeed(motorSpeed);
  stepper.setAcceleration(motorAccel);
  
- stepper.moveTo(12000); //move 12000 steps (should be 10 revs)
+ stepper.moveTo((stepsPerRev * 38.4) / 2); //Move X times revolutions, according to configuration
 }
 
 void loop(){
