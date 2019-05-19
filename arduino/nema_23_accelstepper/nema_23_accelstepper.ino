@@ -14,7 +14,7 @@ int motorStepPin = 9; //digital pin 9
 
 int gearReduction = 38.4;
 
-int stepsPerRev = 50;
+int stepsPerRev = 50; // e.g. one full revolution is 200 at 1.8deg. 100 for half. 50 for quarter.. etc.
 
 int enablePin = 10; // Turn motor driver on/off (can save power when motor is idle)
 
