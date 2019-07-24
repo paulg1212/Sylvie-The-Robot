@@ -67,7 +67,7 @@ With project Sylvie, anything goes, as long as you aren't actually hurting anybo
 ### How to contribute
 
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/animatronic-eye-mechanism-final.JPG" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/animatronic-skull.JPG" width="500" ></a>
 
 You are welcome to submit your own 3d models and I will add them to my collection and give credit to the author if they are
 deemed suitable.
