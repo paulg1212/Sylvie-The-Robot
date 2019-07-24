@@ -1,10 +1,10 @@
-## Sylvie-The-Robot v0.21.2
+## Sylvie 2020 v0.30.0
 
 ### Introduction
 
 <a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/Screenshot%20from%202019-01-12%2015-14-13.png" width="500" ></a>
 
-[Get the latest blender files here!](https://github.com/misses-robot/Sylvie-The-Robot/tree/master/blender/stable)
+[Get the latest stl files here!](https://thingiverse.com/QuantumCatX)
 
 [View Roadmap](https://github.com/misses-robot/Sylvie-The-Robot/blob/master/documentation/ROADMAP.md)
 
@@ -81,13 +81,13 @@ Note: You will need a 3d printer in order to work hands on with the arduino-base
 
 Start date: 8th of October, 2018
 
-Status: Designing robot torso.
+Status: Finishing 3d printed legs.
 
-Progress: 8% Complete
+Progress: 25% Complete
 
-|_______---------------------------------------------------------------------------------------------|
+|_________________________---------------------------------------------------------------------------|
 
-Finished sculpting new improved 3d model for the silicone head cast. Will then be working on designing a good core, a skull and the rest of the animatronic rigs for the head. I will write down all the electronic components and parts used, and also upload the Arduino code.
+(Printing right leg and designing hips now.)
 
 Fun fact: a real 3d scan of a real head was used for the base model.
 
@@ -97,8 +97,8 @@ Fun fact: a real 3d scan of a real head was used for the base model.
 (Includes the cost of material spent on older, failed prototypes.)
 
 - 3d printer: $400~
-- 3d printing filament: $330~
-- Silicone, scuplting and moulding supplies (including tools): $915~
-- Servos, Arduino, Adapters, Hardware: $230~
+- 3d printing filament: $500~
+- Silicone, scuplting and moulding supplies (including tools): $900~
+- Servos, Arduino, Stepper motors, Adapters, Hardware, etc: $400~
 
-Total spending: $1875~ NZD
+Total spending: $2200~ NZD
