@@ -37,7 +37,7 @@ Eh, no. You don't have to. Just 3d print your head model, sand it down, and then
 
 ### Why is this free?
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/Screenshot%20from%202019-01-28%2017-21-24.png" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/sylvie2020_leg.JPG" width="500" ></a>
 
 It's free as in open source. You still have to buy the materials yourself.
 
