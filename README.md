@@ -27,7 +27,7 @@ going to shy away from the fact that, quite frankly; we are creating her because
 
 You could say she is a Manic Pixie Dream Girl come to life; ready to provide the ultimate Girlfriend Experience, something no prostitute and no sex doll will ever be capable of.
 
-She is modeled after Mary Elizabeth Winstead.
+She is modeled after Mary Elizabeth Winstead, and is estimated to be 170-180cm tall (6ft give or take).
 
 ### Wait, Silicone? Can you 3d print in silicone?
 
