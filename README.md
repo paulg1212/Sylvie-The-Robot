@@ -2,9 +2,9 @@
 
 ### Introduction
 
-<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/Screenshot%20from%202019-01-12%2015-14-13.png" width="500" ></a>
+<a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/sylvie-screenshot-full-body.png" width="500" ></a>
 
-[Get the latest stl files here!](https://thingiverse.com/QuantumCatX)
+[Get the latest stl files here!](https://github.com/misses-robot/Sylvie-The-Robot/tree/master/stl)
 
 [View Roadmap](https://github.com/misses-robot/Sylvie-The-Robot/blob/master/documentation/ROADMAP.md)
 
