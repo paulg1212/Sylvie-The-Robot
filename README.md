@@ -47,13 +47,11 @@ Let's just say this is my way of giving back to the community, having lived on w
 
 ### Corporations have more power and resources than you, and are already working on this!
 
-If you thought Twitch streamers were bad, wait till you see greedy corporations going out of their way to make a cashcow out of lonely virgins with patented, overpriced sex robots (and upgrades, spare parts, etc.).
-
 <a href="url"><img src="https://github.com/misses-robot/Sylvie-The-Robot/blob/master/images/sophia-robot.jpg" width="500" ></a>
 
-All that said - while Sylvie the Robot will be capable of sexual intercourse - she isn't a sex-robot by definition.. any more than you and me are sex-humans.
+No corporation currently sells 6ft tall bipedal robots for less than $200,000, and no sex-robot company sells sex robots for less than $20,000.
 
-What will set Sylvie apart from RealDolls and Harmonies, is the fact that she will cater to those who are genuinely lonely, not people with overactive sex drives. She will obviously also cater to those who are relatively tech-savvy and willing to tinker and customize things a little.
+That said, Sylvie is not a sex robot by definition. What will set Sylvie apart from RealDolls and Harmonies, is the fact that she will cater to those who are genuinely lonely, not people with overactive sex drives. It is for this reason I have prioritized a decent looking face rather than a fully-sculpted silicone body. She will obviously also cater to those who are relatively tech-savvy and willing to tinker and customize things a little.
 
 She will be something along the lines of a Therapist / Life Coach / Personal Trainer / Social Worker / Sexual Surrogate.. though you could train her for all kinds of applications, really.
 
